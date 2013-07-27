@@ -1,0 +1,8 @@
+*.project
+*.idea/*
+*.DS_Store
+*.swp
+*.diff
+*.swo
+*.rej
+*.orig
