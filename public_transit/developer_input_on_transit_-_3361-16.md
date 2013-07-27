@@ -28,6 +28,10 @@ Definitions
 
 "transit provider": a publicly subsidized public transit provider wishing to potentially provide service to the area
 
+"transit stop": any boarding or offloading location for a transit provider
+
+"development center": the geographical center of the area (longitudinal and latitudinal median)
+
 Full Text
 ---------
 Be it resolved by Direct Initiative of the people of the city of Columbus, Ohio that:
@@ -38,11 +42,17 @@ Be it resolved by Direct Initiative of the people of the city of Columbus, Ohio 
 
   * Developers may provide input with regard to this implementation, but are prohibited from requesting the absence or prevention of public transit outright
 
-2. Developers must allow a minimum of one accessible public transit stop under these provisions
+2. Developers must allow for transit stops adhering to the following:
 
-  * At least one per 4000 feet if pedestrian thoroughfares are readily and reasonably available
+  * Minimum travel distance is defined as:
 
-  * At least one per 2000 feet if no predestrian thoroughfares are available
+    * 4000 feet if pedestrian thoroughfares are available
+
+	* 2000 feet if pedestrian thoroughfares are not available
+
+  * At least one transit stop within the minimum travel distance of the development center
+
+  * Transit stops no less than the minimum travel distance of another transit stop or the outer limit of the area
 
 3. Implementation of any public transit system adhering to this initiative is to be financed by the legislature or the transit provider, with land provided in normal right-of-ways for pedestrian thoroughfares
 
