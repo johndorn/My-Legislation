@@ -36,13 +36,13 @@ Full Text
 ---------
 Be it resolved by Direct Initiative of the people of the city of Columbus, Ohio that:
 
-1. Public transit must be allowed to be implemented in any public thoroughfare in or around any private development
+* Public transit must be allowed to be implemented in any public thoroughfare in or around any private development
 
   * This implementation is to be governed exclusively by the legislature and transit providers
 
   * Developers may provide input with regard to this implementation, but are prohibited from requesting the absence or prevention of public transit outright
 
-2. Developers must allow for transit stops adhering to the following:
+* Developers must allow for transit stops adhering to the following:
 
   * Minimum travel distance is defined as:
 
@@ -54,14 +54,14 @@ Be it resolved by Direct Initiative of the people of the city of Columbus, Ohio 
 
   * Transit stops no less than the minimum travel distance of another transit stop or the outer limit of the area
 
-3. Implementation of any public transit system adhering to this initiative is to be financed by the legislature or the transit provider, with land provided in normal right-of-ways for pedestrian thoroughfares
+* Implementation of any public transit system adhering to this initiative is to be financed by the legislature or the transit provider, with land provided in normal right-of-ways for pedestrian thoroughfares
 
-4. No agreement between the legislature and the developer is to be reached which prohibits the implementation of public transit or makes it intentionally cost-prohibitive
+* No agreement between the legislature and the developer is to be reached which prohibits the implementation of public transit or makes it intentionally cost-prohibitive
 
-5. Any agreement reached between the developer, the legislature, and the transit provider is to be filed and place on public record with the City Auditor's office at least 30 days before the agreement is to be final.
+* Any agreement reached between the developer, the legislature, and the transit provider is to be filed and place on public record with the City Auditor's office at least 30 days before the agreement is to be final.
 
   * In addition, at the transit provider's discretion, a public forum is to be held at least 60 days before the agreement is to be final with notification of said agreement to happen at least 20 days in advance.
 
   * Agreement is to be announced, implemented, and financed entirely by the transit provider
 
-6. Any public transit stops must be accessible to **all** transit providers
+* Any public transit stops must be accessible to **all** transit providers
