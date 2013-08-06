@@ -40,15 +40,15 @@ Be it resolved by Direct Initiative of the people of the city of Columbus, Ohio 
 
   * This implementation is to be governed exclusively by the legislature and transit providers
 
-  * Developers may provide input with regard to this implementation, but are prohibited from requesting the absence or prevention of public transit outright
+  * Developers may provide input with regard to this implementation, but are prohibited from requesting the absence or prevention of public transit outright, and are prohibited from interfering with the implementation of the guidelines in this act.
 
 * Developers must allow for transit stops adhering to the following:
 
   * Minimum travel distance is defined as:
 
-    * 4000 feet if pedestrian thoroughfares are available
+    * 4000 feet if pedestrian thoroughfares (sidewalks) are fully available
 
-	* 2000 feet if pedestrian thoroughfares are not available
+	* 2000 feet if pedestrian thoroughfares (sidewalks) are not fully available
 
   * At least one transit stop within the minimum travel distance of the development center
 
